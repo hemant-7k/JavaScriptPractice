@@ -56,4 +56,4 @@ console.log(typeof greet); // function
 
 
 
-// Summary: Data types are a fundamental concept in JavaScript that helps us understand how data is stored and manipulated. Primitive data types are immutable and stored directly in memory, while reference data types are mutable and stored as references to objects in memory. Understanding these differences is crucial for effective programming in JavaScript.
+// Summary: Data types are a fundamental concept in JavaScript that helps us understand how data is stored and manipulated. Primitive data types are immutable and stored directly in memory, while reference data types are mutable and stored as references to objects in memory. Understanding these differences is crucial for effective programming in JavaScript
